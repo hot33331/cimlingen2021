@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "ciml.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
