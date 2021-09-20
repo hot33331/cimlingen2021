@@ -22,3 +22,5 @@ Here you can find all the information from the talk. The presentation is in the 
 
 [.net upgrade assistant](https://dotnet.microsoft.com/platform/upgrade-assistant)
 
+[Visual Studio 2022 for Mac private preview](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview/)
+
