@@ -1,6 +1,8 @@
 # CIM Lingen 2021 - Let's go to MAUI!
 
-Here you can find all the information from the talk. The presentation is in the presentation subfolder, links below. THE SOURCE CODE IS DEPRECATED AND DOES NOT COMPILE ANYMORE WITH CURRENT MAUI VERSIONS! For a working current MAUI project, please see [here](https://github.com/hot33331/MauiWowie).
+Here you can find all the information from the talk. The presentation is in the presentation subfolder, links below. THE SOURCE CODE IS DEPRECATED AND DOES NOT COMPILE ANYMORE WITH CURRENT MAUI VERSIONS! 
+
+<!-- For a working current MAUI project, please see [here](https://github.com/hot33331/MauiWowie).-->
 
 [.net maui docs](https://docs.microsoft.com/en-us/dotnet/maui/)
 
